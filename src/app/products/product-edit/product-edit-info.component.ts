@@ -8,6 +8,7 @@ import { Product } from '../product';
   templateUrl: './product-edit-info.component.html'
 })
 export class ProductEditInfoComponent implements OnInit {
+
   @ViewChild(NgForm, {static: false}) productForm: NgForm;
 
   errorMessage: string;
@@ -15,6 +16,5 @@ export class ProductEditInfoComponent implements OnInit {
 
   constructor(private route: ActivatedRoute) { }
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void { }
 }
