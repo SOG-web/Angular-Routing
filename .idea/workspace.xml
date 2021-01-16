@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b4f3e13-742b-44b9-88dd-55d191e84210" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/messages/summary.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/messages/summary.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/products/product-list-resolver-service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/messages/message.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/messages/message.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/messages/message.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/messages/message.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/messages/message.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/messages/message.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-edit/product-edit-info.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-edit/product-edit-info.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-edit/product-edit-tags.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-edit/product-edit-tags.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-edit/product-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-edit/product-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-edit/product-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-edit/product-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/products/product.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/product.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1mZYHQ4pM7qHazuW5go2lfJyeQT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="AngularJS" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="background.image.plus" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (APM)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (APM)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4f3e13-742b-44b9-88dd-55d191e84210" name="Default Changelist" comment="" />
+      <created>1609702497182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609702497182</updated>
+      <workItem from="1609702501008" duration="581000" />
+      <workItem from="1609703116014" duration="127000" />
+      <workItem from="1609703485143" duration="361000" />
+      <workItem from="1609703876985" duration="97000" />
+      <workItem from="1609704003007" duration="461000" />
+      <workItem from="1609783227870" duration="2801000" />
+      <workItem from="1609786165915" duration="44000" />
+      <workItem from="1609786712280" duration="6017000" />
+      <workItem from="1609863700325" duration="3105000" />
+      <workItem from="1610475321868" duration="458000" />
+      <workItem from="1610562018630" duration="6835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="223" width="717" height="354" key="#Notifications" timestamp="1609702953589">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="319" y="223" width="717" height="354" key="#Notifications/0.32.1366.736@0.32.1366.736" timestamp="1609702953589" />
+    <state width="1318" height="207" key="GridCell.Tab.0.bottom" timestamp="1609792830362">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1609792830362" />
+    <state width="1318" height="207" key="GridCell.Tab.0.center" timestamp="1609792830361">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1609792830361" />
+    <state width="1318" height="207" key="GridCell.Tab.0.left" timestamp="1609792830361">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1609792830361" />
+    <state width="1318" height="207" key="GridCell.Tab.0.right" timestamp="1609792830362">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1609792830362" />
+    <state width="1318" height="207" key="GridCell.Tab.1.bottom" timestamp="1609792830363">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.1.bottom/0.32.1366.736@0.32.1366.736" timestamp="1609792830363" />
+    <state width="1318" height="207" key="GridCell.Tab.1.center" timestamp="1609792830363">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.1.center/0.32.1366.736@0.32.1366.736" timestamp="1609792830363" />
+    <state width="1318" height="207" key="GridCell.Tab.1.left" timestamp="1609792830362">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.1.left/0.32.1366.736@0.32.1366.736" timestamp="1609792830362" />
+    <state width="1318" height="207" key="GridCell.Tab.1.right" timestamp="1609792830363">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.1.right/0.32.1366.736@0.32.1366.736" timestamp="1609792830363" />
+    <state width="1318" height="207" key="GridCell.Tab.2.bottom" timestamp="1609792830365">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.2.bottom/0.32.1366.736@0.32.1366.736" timestamp="1609792830365" />
+    <state width="1318" height="207" key="GridCell.Tab.2.center" timestamp="1609792830364">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.2.center/0.32.1366.736@0.32.1366.736" timestamp="1609792830364" />
+    <state width="1318" height="207" key="GridCell.Tab.2.left" timestamp="1609792830364">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.2.left/0.32.1366.736@0.32.1366.736" timestamp="1609792830364" />
+    <state width="1318" height="207" key="GridCell.Tab.2.right" timestamp="1609792830364">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.2.right/0.32.1366.736@0.32.1366.736" timestamp="1609792830364" />
+    <state width="1318" height="207" key="GridCell.Tab.3.bottom" timestamp="1609792830366">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.3.bottom/0.32.1366.736@0.32.1366.736" timestamp="1609792830366" />
+    <state width="1318" height="207" key="GridCell.Tab.3.center" timestamp="1609792830366">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.3.center/0.32.1366.736@0.32.1366.736" timestamp="1609792830366" />
+    <state width="1318" height="207" key="GridCell.Tab.3.left" timestamp="1609792830365">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.3.left/0.32.1366.736@0.32.1366.736" timestamp="1609792830365" />
+    <state width="1318" height="207" key="GridCell.Tab.3.right" timestamp="1609792830366">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1318" height="207" key="GridCell.Tab.3.right/0.32.1366.736@0.32.1366.736" timestamp="1609792830366" />
+    <state x="174" y="137" width="1007" height="526" key="IDE.errors.dialog" timestamp="1609703161284">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="174" y="137" width="1007" height="526" key="IDE.errors.dialog/0.32.1366.736@0.32.1366.736" timestamp="1609703161284" />
+    <state x="202" y="35" key="SettingsEditor" timestamp="1609786208175">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="202" y="35" key="SettingsEditor/0.32.1366.736@0.32.1366.736" timestamp="1609786208175" />
+    <state width="532" height="519" key="SwitcherDM" timestamp="1609791457949">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="532" height="519" key="SwitcherDM/0.32.1366.736@0.32.1366.736" timestamp="1609791457949" />
+    <state x="554" y="299" width="348" height="298" key="org.angular.cli.generate" timestamp="1609865402393">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="554" y="299" width="348" height="298" key="org.angular.cli.generate/0.32.1366.736@0.32.1366.736" timestamp="1609865402393" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/products/product-list.component.html</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/products/product-edit/product-edit-tags.component.html</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

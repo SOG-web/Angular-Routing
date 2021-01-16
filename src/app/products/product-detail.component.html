@@ -62,6 +62,7 @@
           style="width: 80px"
           [routerLink]="['/products']"
           queryParamsHandling="preserve"
+          (click)="showOutlet()"
         >
           <i class="fa fa-chevron-left"></i> Back
         </button>
@@ -69,6 +70,7 @@
           class="btn btn-outline-primary"
           style="width: 80px"
           [routerLink]="['/products', product.id, 'edit']"
+          (click)="showOutlet()"
         >
           Edit
         </button>

@@ -1,8 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 
-import { Product } from './product';
+import {Product, ProductResolved} from './product';
 import { ProductService } from './product.service';
+import {AppService} from '../app.service';
 
 @Component({
   templateUrl: './product-list.component.html',
@@ -14,6 +15,7 @@ export class ProductListComponent implements OnInit {
   imageMargin = 2;
   showImage = false;
   errorMessage = '';
+  loading = true;
 
   _listFilter = '';
   get listFilter(): string {
@@ -32,7 +34,8 @@ export class ProductListComponent implements OnInit {
   constructor(
     private productService: ProductService,
     private router: Router,
-    private route: ActivatedRoute
+    private route: ActivatedRoute,
+    // private appService: AppService
   ) {}
 
   ngOnInit(): void {
@@ -40,13 +43,24 @@ export class ProductListComponent implements OnInit {
     this.showImage =
       this.route.snapshot.queryParamMap.get('showImage') === 'true';
 
-    this.productService.getProducts().subscribe({
-      next: (products) => {
-        this.products = products;
+
+    this.route.data.subscribe({
+      next: (data) => {
+        console.log(data);
+        const resolvedProducts: Product[] = data['resolvedProducts'];
+        this.products = resolvedProducts;
         this.filteredProducts = this.performFilter(this.listFilter);
       },
       error: (err) => (this.errorMessage = err),
     });
+    this.router.navigate([{ outlets: {popup: ['summary'] }}]);
+    // this.productService.getProducts().subscribe({
+    //   next: (products) => {
+    //     this.products = products;
+    //     this.filteredProducts = this.performFilter(this.listFilter);
+    //   },
+    //   error: (err) => (this.errorMessage = err),
+    // });
   }
 
   performFilter(filterBy: string): Product[] {
@@ -59,5 +73,14 @@ export class ProductListComponent implements OnInit {
 
   toggleImage(): void {
     this.showImage = !this.showImage;
+  }
+
+  hideOutlet(): void {
+    /*
+    for the multiple outlet stuff on app.html
+    this.appService.isDisplayed = false;
+    */
+
+    this.router.navigate([{ outlets: {popup: 'summary' }}]);
   }
 }
